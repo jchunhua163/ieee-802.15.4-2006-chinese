@@ -22,6 +22,7 @@
        * 5.5.4 提高成功传输的概率
        * 5.5.5 电源消耗
        * 5.5.6 安全
+   * 5.6 原语的概念
 * 6 物理层规范
    * [6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
