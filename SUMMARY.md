@@ -15,7 +15,7 @@
    * [5.4 架构](5/5.4 Architecture.md)
        * [5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY)
        * [5.4.2 MAC 子层](5/5.4.2 MAC sublayer.md)
-   * 5.5 功能概述
+   * [5.5 功能概述](5/5.5 Functional overview.md)
        * 5.5.1 超帧结构
        * 5.5.2 数据传输模型
        * 5.5.3 帧结构
