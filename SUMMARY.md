@@ -13,7 +13,7 @@
        * [5.3.1 星型网络](5/5.3.1 Star network formation.md)
        * [5.3.2 对等网络](5/5.3.2 Peer-to-peer network formation.md)
    * [5.4 架构](5/5.4 Architecture.md)
-       * 5.4.1 物理层 PHY
+       * [5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY).md)
        * 5.4.2 MAC 子层
    * 5.5 功能概述
        * 5.5.1 超帧结构
