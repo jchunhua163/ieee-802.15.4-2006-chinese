@@ -4,5 +4,7 @@
 # 在线阅读
 　　[Gitbook](https://tidyjiang8.gitbooks.io/ieee-802-15-4-2006-chinese/content/index.html) | [GitHub](https://github.com/tidyjiang8/ieee-802.15.4-2006-chinese)
 # 离线阅读
+　　[PDF](https://www.gitbook.com/download/pdf/book/tidyjiang8/ieee-802-15-4-2006-chinese) | [ePub](https://www.gitbook.com/download/epub/book/tidyjiang8/ieee-802-15-4-2006-chinese) | [Mobi](https://www.gitbook.com/download/mobi/book/tidyjiang8/ieee-802-15-4-2006-chinese)
+# 贡献代码
 
 
