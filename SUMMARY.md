@@ -15,6 +15,7 @@
    * 5.4 架构
        * 5.4.1 物理层 PHY
        * 5.4.2 MAC 子层
+   * 5.5 功能概述
 * 6 物理层规范
    * [6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
