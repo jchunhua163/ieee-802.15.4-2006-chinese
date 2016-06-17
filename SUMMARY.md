@@ -8,7 +8,7 @@
 * [4 缩略语](4/4 Acronyms_and_abbreviations.md)
 * [5 通用描述](5/5.General_description.md)
    * [5.1 介绍](5/5.1.Introduction.md)
-   * 5.2  IEEE 802.15.4 WPAN 的组成
+   * [5.2  IEEE 802.15.4 WPAN 的组成](5/5.2.omponents_of_the_IEEE_802.15.4_WPAN.md)
    * 5.3 网络拓扑
        * 5.3.1 星型网络
        * 5.3.2 对等网络
