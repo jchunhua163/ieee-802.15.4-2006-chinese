@@ -8,4 +8,5 @@
 * [4 缩略语](4/4 Acronyms_and_abbreviations.md)
 * [5 通用描述](5/5.General_description.md)
 * 6 物理层规范
+* 7 MAC 子层规范
 
